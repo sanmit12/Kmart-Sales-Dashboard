@@ -9,9 +9,13 @@ This dashboard was created in Microsoft Excel to analyze comprehensive sales dat
 Key Business Insights
 
 *Total Sales: $3.19M across all channels, with an average transaction value of $707
+
 *Top-Performing Suburbs: Frankston ($105.7K), Campbelltown ($97.4K), Chadstone ($84.2K)
+
 *Channel Split: In-store sales make up 72% compared to 28% online
+
 *Strategic Observation: Locations such as Albany and Alexandria demonstrate strong online-first purchasing patterns (over 80% online sales)
+
 *Geographic Insights: NSW leads in total performance, highlighting potential areas for expansion
 
 Technical Skills Demonstrated
